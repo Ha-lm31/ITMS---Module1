@@ -1,21 +1,44 @@
-<h1> Vehicules Detection Module</h1>
+<h1> Vehicules Detection Module of ITMS </h1>
+
+update : 25/06/2025
+
+[`ITMS : Github Repo Link`](https://github.com/Ha-lm31/ITMS.git)
+
+[`ITMS---Module1 : Github Repo Link`](https://github.com/Ha-lm31/ITMS---Module1.git)
+
+[`Adaptive Traffic Signal Time : Github Repo Link`](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer.git)
 
 <h2> Implémentation du code </h2>
 
-[`ITMS - Module1 : Github Repo Link`](https://github.com/Ha-lm31/ITMS---Module1.git)
+<h3> Coté d'Entrainement </h3>
 
-<h3> Travail appliquée </h3>
+- On fait un test sur les images dans le fichier 'test_images'
+1. `V1-module1.py` : Faire une détection du véhicules
+2. `V1-module1.py` : Counter les véhicules
+3. Chercher des images qui aides notre projet ??
 
-1. Creation d'un dossier `ITMS - Module1`
-2. Creation d'un dépot Github `ITMS - Module1`
-3. Lié le dossier et le dépot
-4. Dans le fichier 'requirement.txt' : 
-    ajouter `pipdeptree` et `roboflow` , supprimer `torch>=1.7.0` et `torchvision>=0.8.1`
- 
+<h3> D'Autres </h3>
 
-<h3> Travail à faire</h3>
-
-
-- Codage de `YOLOv8_Detection_Tracking_CustomData_Complete.ipynb`
+Clone : 
+```
+cd <chemin>
+git init
+git add .
+git status
+git commit -m "1st commit"
+git branch -M main
+git remote add origin <Depot github>
+git remote -v
+git push -u origin main
+git push -u origin main --force
+```
+or 
+```
+git add .
+git status
+git commit -m "First commit"
+git push -u origin main
+git push -u origin main --force
+```
 
 <h3></h3>
