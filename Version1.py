@@ -16,3 +16,7 @@ for image_file in os.listdir(image_folder):
         # 'save=True' pour enregistrer les résultats avec annotations
         results = model(image_path, save = True)
         print(f"Résultats enregistrés pour {image_file}")
+
+'''
+type-vehicule(class) : nombre
+'''

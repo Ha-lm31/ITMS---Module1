@@ -1,3 +1,6 @@
+#pas utile : à modifie
+#json!!
+
 from ultralytics import YOLO
 import os
 from collections import defaultdict
